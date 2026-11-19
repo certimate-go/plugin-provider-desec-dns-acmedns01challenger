@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "form/v1",
+  "provider": "desec",
+  "category": "access",
+  "schema": {
+    "columns": [
+      {
+        "name": "token",
+        "valueType": "secret",
+        "labelKey": "plugin.desec-dns.access.token.label",
+        "tooltipKey": "plugin.desec-dns.access.token.tooltip",
+        "tooltipHtml": true,
+        "placeholderKey": "plugin.desec-dns.access.token.placeholder",
+        "secret": true,
+        "required": true
+      }
+    ]
+  }
+}

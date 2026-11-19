@@ -1,0 +1,18 @@
+{
+  "access_provider_type": "desec",
+  "binary": "desec-dns.exe",
+  "capability": "dns",
+  "description": "ACME DNS-01 via deSEC.",
+  "display_name_key": "plugin.desec-dns.name",
+  "icon": "icon.svg",
+  "min_core_version": "",
+  "protocol_version": 4,
+  "provider_type": "desec-dns",
+  "provider_aliases": [
+    "desec"
+  ],
+  "usages": [
+    "dns"
+  ],
+  "version": "0.1.0"
+}

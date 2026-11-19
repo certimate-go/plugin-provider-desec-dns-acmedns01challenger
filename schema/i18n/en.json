@@ -1,0 +1,7 @@
+{
+  "plugin.desec-dns.name": "deSEC",
+  "plugin.desec-dns.description": "ACME DNS-01 via deSEC.",
+  "plugin.desec-dns.access.token.label": "deSEC token",
+  "plugin.desec-dns.access.token.tooltip": "For more information, see <a href=\"https://desec.readthedocs.io/en/latest/auth/tokens.html#manage-tokens\" target=\"_blank\">https://desec.readthedocs.io/en/latest/auth/tokens.html</a>",
+  "plugin.desec-dns.access.token.placeholder": "Please enter deSEC token"
+}

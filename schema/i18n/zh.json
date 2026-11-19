@@ -1,0 +1,7 @@
+{
+  "plugin.desec-dns.name": "deSEC",
+  "plugin.desec-dns.description": "通过 deSEC 完成 ACME DNS-01 验证。",
+  "plugin.desec-dns.access.token.label": "deSEC Token",
+  "plugin.desec-dns.access.token.tooltip": "这是什么？请参阅 <a href=\"https://desec.readthedocs.io/en/latest/auth/tokens.html#manage-tokens\" target=\"_blank\">https://desec.readthedocs.io/en/latest/auth/tokens.html</a>",
+  "plugin.desec-dns.access.token.placeholder": "请输入 deSEC Token"
+}
